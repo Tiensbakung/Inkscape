@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lastword.svg"
+   inkscape:export-filename="/home/tiens/Downloads/lastword.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3270"
+       inkscape:collect="always">
+      <stop
+         id="stop3272"
+         offset="0"
+         style="stop-color:#cc00ff;stop-opacity:1" />
+      <stop
+         id="stop3274"
+         offset="1"
+         style="stop-color:#e9afc6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3258">
+      <stop
+         style="stop-color:#44aa00;stop-opacity:1"
+         offset="0"
+         id="stop3260" />
+      <stop
+         style="stop-color:#d4ff2a;stop-opacity:1"
+         offset="1"
+         id="stop3262" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3242"
+       inkscape:collect="always">
+      <stop
+         id="stop3244"
+         offset="0"
+         style="stop-color:#008000;stop-opacity:1" />
+      <stop
+         id="stop3246"
+         offset="1"
+         style="stop-color:#aa0000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3232">
+      <stop
+         style="stop-color:#008000;stop-opacity:1"
+         offset="0"
+         id="stop3234" />
+      <stop
+         style="stop-color:#aa0000;stop-opacity:1"
+         offset="1"
+         id="stop3236" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3226"
+       inkscape:collect="always">
+      <stop
+         id="stop3228"
+         offset="0"
+         style="stop-color:#d40000;stop-opacity:1" />
+      <stop
+         id="stop3230"
+         offset="1"
+         style="stop-color:#008080;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3216">
+      <stop
+         style="stop-color:#d40000;stop-opacity:1"
+         offset="0"
+         id="stop3218" />
+      <stop
+         style="stop-color:#008080;stop-opacity:1"
+         offset="1"
+         id="stop3220" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3216"
+       id="linearGradient3222"
+       x1="80.73098"
+       y1="434.14883"
+       x2="1028.254"
+       y2="1034.1794"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3226"
+       id="linearGradient3224"
+       x1="82.73098"
+       y1="434.14883"
+       x2="1030.254"
+       y2="1034.1794"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3232"
+       id="radialGradient3238"
+       cx="233.00357"
+       cy="722.63971"
+       fx="233.00357"
+       fy="722.63977"
+       r="83.705078"
+       gradientTransform="matrix(4.6218423,1.0876467,-1.0040441,4.2665815,2.1283658,-2478.2137)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3242"
+       id="radialGradient3240"
+       cx="233.96126"
+       cy="722.89471"
+       fx="233.96126"
+       fy="722.89471"
+       r="81.21875"
+       gradientTransform="matrix(4.7633301,1.1209425,-1.0347813,4.3971959,-10.924779,-2582.5538)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3258"
+       id="linearGradient3264"
+       x1="1458.6603"
+       y1="251.14005"
+       x2="2111.2188"
+       y2="695.60718"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1020.254,336.55194)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3270"
+       id="linearGradient3268"
+       gradientUnits="userSpaceOnUse"
+       x1="1866.7618"
+       y1="531.9624"
+       x2="1212.1831"
+       y2="131.94203"
+       gradientTransform="translate(-1020.254,336.55197)" />
+    <filter
+       inkscape:collect="always"
+       id="filter4112">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="8.4852814"
+         id="feGaussianBlur4114" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="964.26214"
+     inkscape:cy="370.59596"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:url(#linearGradient3264);fill-opacity:1"
+       id="rect3248"
+       width="1014.1932"
+       height="682.8631"
+       x="14.142183"
+       y="337.17416" />
+    <rect
+       y="337.17416"
+       x="14.142183"
+       height="682.8631"
+       width="1014.1932"
+       id="rect3266"
+       style="opacity:0.45;fill:url(#linearGradient3268);fill-opacity:1;filter:url(#filter4112)" />
+    <g
+       id="g3149"
+       transform="translate(-10,0)"
+       style="fill:url(#radialGradient3240);fill-opacity:1">
+      <g
+         transform="translate(-2,-8.9843752)"
+         id="g3089"
+         style="fill:url(#radialGradient3240);fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="680.96875"
+           y="448.72156"
+           id="text3005"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3007"
+             x="448.72156"
+             y="680.96875"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">死</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="681.00391"
+           y="545.62781"
+           id="text3009"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3011"
+             x="545.62781"
+             y="681.00391"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">生</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="677.52344"
+           y="644.29187"
+           id="text3017"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3019"
+             x="644.29187"
+             y="677.52344"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">契</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="677.94531"
+           y="742.67468"
+           id="text3033"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3035"
+             x="742.67468"
+             y="677.94531"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">阔</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:56px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="665.55469"
+           y="818.69031"
+           id="text3085"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3087"
+             x="818.69031"
+             y="665.55469"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">，</tspan></text>
+      </g>
+      <g
+         transform="translate(8,-20.786438)"
+         id="g3113"
+         style="fill:url(#radialGradient3240);fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="572.03906"
+           y="603.16687"
+           id="text3029"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3031"
+             x="603.16687"
+             y="572.03906"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">子</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="571.78516"
+           y="499.58093"
+           id="text3037"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3039"
+             x="499.58093"
+             y="571.78516"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">与</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="571.53125"
+           y="701.62"
+           id="text3041"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3043"
+             x="701.62"
+             y="571.53125"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">成</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="571.58984"
+           y="805.97937"
+           id="text3045"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3047"
+             x="805.97937"
+             y="571.58984"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">说</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:56px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3240);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="557.60419"
+           y="883.06268"
+           id="text3101"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3103"
+             x="883.06268"
+             y="557.60419"
+             style="fill-opacity:1;fill:url(#radialGradient3240)">。</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3173"
+       transform="translate(-8,0)"
+       style="fill:url(#radialGradient3238);fill-opacity:1">
+      <g
+         transform="translate(6,-22.827088)"
+         id="g3137"
+         style="fill:url(#radialGradient3238);fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="300.84375"
+           y="507.58093"
+           id="text3069"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3071"
+             x="507.58093"
+             y="300.84375"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">与</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="301.09766"
+           y="611.16687"
+           id="text3073"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3075"
+             x="611.16687"
+             y="301.09766"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">子</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="300.64844"
+           y="711.02625"
+           id="text3077"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3079"
+             x="711.02625"
+             y="300.64844"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">谐</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="300.88281"
+           y="812.4325"
+           id="text3081"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3083"
+             x="812.4325"
+             y="300.88281"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">老</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text3105"
+           y="885.10333"
+           x="288.8833"
+           style="font-size:56px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           xml:space="preserve"><tspan
+             y="288.8833"
+             x="885.10333"
+             id="tspan3107"
+             sodipodi:role="line"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">。</tspan></text>
+      </g>
+      <g
+         transform="translate(-12,-20.42273)"
+         id="g3125"
+         style="fill:url(#radialGradient3238);fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="420.96875"
+           y="454.50281"
+           id="text3049"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3051"
+             x="454.50281"
+             y="420.96875"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">执</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="420.94922"
+           y="553.16687"
+           id="text3053"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3055"
+             x="553.16687"
+             y="420.94922"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">子</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:Sans"
+           x="421.28125"
+           y="657.45593"
+           id="text3061"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3063"
+             x="657.45593"
+             y="421.28125"
+             style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic;fill:url(#radialGradient3238);fill-opacity:1">之</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:72px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="420.69531"
+           y="751.12781"
+           id="text3065"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3067"
+             x="751.12781"
+             y="420.69531"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">手</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:56px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:tb-rl;fill:url(#radialGradient3238);fill-opacity:1;stroke:none;font-family:AR PL UKai CN;-inkscape-font-specification:AR PL UKai CN Bold Italic"
+           x="406.08133"
+           y="830.12866"
+           id="text3109"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3111"
+             x="830.12866"
+             y="406.08133"
+             style="fill-opacity:1;fill:url(#radialGradient3238)">，</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
